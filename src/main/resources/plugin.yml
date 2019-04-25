@@ -1,0 +1,4 @@
+name: ${artifactId}
+main: fr.keke142.consolefilter.ConsoleFilterPlugin
+author: keke142
+version: ${parent.version}
