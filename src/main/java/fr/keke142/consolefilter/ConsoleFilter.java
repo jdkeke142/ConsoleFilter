@@ -124,7 +124,7 @@ public class ConsoleFilter implements Filter {
 
     @Override
     public boolean isStarted() {
-        return false;
+        return true;
     }
 
     @Override
